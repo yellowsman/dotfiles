@@ -1,0 +1,6 @@
+---
+"workspace:activate_next_tab": "ctrl-shift-{"
+"workspace:rename_active_tab": ctrl-shift-T
+"workspace:activate_prev_tab": "ctrl-shift-}"
+"workspace:move_tab_left": ctrl-shift-left
+"workspace:move_tab_right": ctrl-shift-right
